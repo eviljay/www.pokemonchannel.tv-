@@ -1,0 +1,1 @@
+local=&media=http://media.pokemonchannel.tv/pokemonchannel/
